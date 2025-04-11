@@ -20,8 +20,11 @@
 计算机专业或者熟悉github的同学可以跳过。
 1. 文件存在了master子目录下
    ![下载步骤1](https://github.com/pdyt/BIT_Accounting_Major_Exam_Sharing/blob/main/assets/download1.png)
-2. 文件体量以GB为单位，请选择一级目录下的单个文件逐个下载。
    ![下载步骤2](https://github.com/pdyt/BIT_Accounting_Major_Exam_Sharing/blob/main/assets/download2.png)
+3. 文件体量以GB为单位，请选择一级目录下的单个zip文件逐个下载。
+   ![下载步骤3](https://github.com/pdyt/BIT_Accounting_Major_Exam_Sharing/blob/main/assets/download3.png)
+   ![下载步骤4](https://github.com/pdyt/BIT_Accounting_Major_Exam_Sharing/blob/main/assets/download4.png)
+   
 
 ## 如何提交补充材料
 ### 方法一
