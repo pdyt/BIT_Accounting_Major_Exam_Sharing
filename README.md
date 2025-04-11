@@ -6,7 +6,7 @@
 ## 如何下载
 计算机专业或者熟悉github的同学可以跳过。
 1. 点击右上角
-   ![下载步骤1]()
+   ![下载步骤1](https://github.com/pdyt/BIT_Accounting_Major_Exam_Sharing/blob/main/assets/download1.png)
 2. 选择zip文件并下载
    ![下载步骤2]()
 
