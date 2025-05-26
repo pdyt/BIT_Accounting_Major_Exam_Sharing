@@ -35,8 +35,8 @@
 2. fork本仓库，clone到本地，添加文件后再上传到远程仓库，提交pull request [CSDN教程](https://blog.csdn.net/CY2333333/article/details/113731490?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522170162087916800211580270%2522%252C%2522scm%2522%253A%252220140713.130102334.pc%255Fall.%2522%257D&request_id=170162087916800211580270&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~first_rank_ecpm_v1~rank_v31_ecpm-4-113731490-null-null.142^v96^control&utm_term=github%20pull%20request%E8%AF%A6%E7%BB%86%E6%95%99%E7%A8%8B&spm=1018.2226.3001.4187)  
 
 ## 更新日志
-25.4.24 感谢22届zjh同学，22届lzh同学的资料
-25.5.26 将原本存放于maintain根目录下的文件转移到main目录中，便于不熟悉操作的同学下载使用
+- 25.4.24 感谢22届zjh同学，22届lzh同学的资料
+- 25.5.26 将原本存放于maintain根目录下的文件转移到main目录中，便于不熟悉操作的同学下载使用
 
 ## 联系方式
    邮箱 zxy1101012004@163.com
